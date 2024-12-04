@@ -1,0 +1,15 @@
+Web Version of eText:
+
+https://allendowney.github.io/ThinkPython/index.html
+
+FANTASTIC Python Reference Sheet:
+
+https://quickref.me/python.html
+
+Python Documentation:
+
+https://docs.python.org/3/
+
+w3 Schools Python Tutorial:
+
+https://www.w3schools.com/python/
