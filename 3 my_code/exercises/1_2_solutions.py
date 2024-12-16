@@ -46,7 +46,7 @@ friendly_pairs = 0
 
 for i in range(len(numbers)):
     for j in range(i + 1, len(numbers)):
-        if abs(numbers[i] - numbers[j]) == 1:
+        if (numbers[i] - numbers[j]) == 1:
             friendly_pairs += 1
 
 print(f"Found {friendly_pairs} friendly pairs")
