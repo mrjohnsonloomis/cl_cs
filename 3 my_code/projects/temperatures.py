@@ -1,5 +1,5 @@
 # Read the file content into a list
-with open('MaxTemps2023.csv', 'r') as file:
+with open('MaxTemps2024.csv', 'r') as file:
     lines = file.readlines()
 
 # Lists to store maximum temperatures
@@ -13,3 +13,4 @@ for line in lines[1:]:
     max_temps_hartford.append(float(components[2]))
 
 # Now max_temps_phoenix and max_temps_hartford lists are ready to be used
+print(max_temps_hartford)
