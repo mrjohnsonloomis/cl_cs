@@ -1,3 +1,5 @@
+from math import pi
+
 def calculate_circle_properties(radius):
     """
     Calculates multiple properties of a circle and returns them as a tuple.
@@ -9,7 +11,7 @@ def calculate_circle_properties(radius):
     Returns:
         tuple: (circumference, area, diameter)
     """
-    from math import pi
+    
     
     # Calculate different properties
     circumference = 2 * pi * radius
