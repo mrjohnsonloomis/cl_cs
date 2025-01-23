@@ -8,11 +8,8 @@ def calculate_total(prices):
     if total > 200:
         total = total * 0.8  # 20% off
     elif total > 100:
-        total = total * 0.9  # 10% off
-    
-    # Round to 2 decimal places
-    total = round(total, 2)
-    
+        total = total * 0.9  # 10% off 
+         
     return total
 
 
