@@ -19,7 +19,7 @@ def create_student_id(grade, first_initial, last_name):
 grade = 7
 first_name = "John"
 last_name = "Smith"
-print("Student info: Grade", grade + ",", first_name, last_name)
+print("Student info: Grade", int(grade) + ",", first_name, last_name)
 print("Student ID:", create_student_id(grade, first_name[0], last_name))
 print()
 
@@ -34,8 +34,10 @@ print("Student ID:", create_student_id(grade, first_name[0], last_name))
 
 def get_fahrenheit(temp_string):
     """Extracts the Fahrenheit temperature from a temperature string"""
-    f_part = temp_string.split("/")[0]
-    return int(f_part.replace("F", ""))
+    f_part = temp_string.split("/")
+    f_part = f_part[0]
+    f_part = int(f_part.replace("F", ""))
+    return f_part
 
 def get_celsius(temp_string):
     """Extracts the Celsius temperature from a temperature string"""
@@ -57,7 +59,6 @@ print("Temperature readings:", temperatures)
 print("Fahrenheit from first reading:", get_fahrenheit(temperatures[0]))
 print("Celsius from first reading:", get_celsius(temperatures[0]))
 print("Highest temperature:", find_highest_temp(temperatures))
-
 # Word Scrambler
 
 
