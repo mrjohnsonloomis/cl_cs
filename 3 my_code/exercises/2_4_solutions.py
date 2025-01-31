@@ -2,7 +2,6 @@
 Library System - Dictionary Practice Solutions
 This script contains solutions to all three library system practice problems.
 Each solution demonstrates different ways to work with Python dictionaries.
-The loops are written with single variables to make them easier to understand.
 """
 
 # ===== Problem 1: Book Status Tracker =====
