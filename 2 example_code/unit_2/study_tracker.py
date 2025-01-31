@@ -47,6 +47,12 @@ def main():
     avg_hours = sum(study_hours) / len(study_hours)
     overall = "Great job!" if avg_hours >= 3 else "Keep working on building those study habits!"
     print(f"\n{overall}")
-
-
+    
+    '''
+    Same thing as 
+    if avg_hours >=3:
+        overall = 'great job'
+    else:
+        overall = 'keep working'
+    '''
 main()
