@@ -17,7 +17,7 @@ book_status = {
 }
 
 # Print all book titles
-print("All books:", list(book_status.keys()))
+print("All books:", book_status.keys())
 
 # Find available books (where value is False)
 available_books = []
