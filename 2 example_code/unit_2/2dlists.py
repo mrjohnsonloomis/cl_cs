@@ -34,7 +34,7 @@ for i in range(len(class_scores)):
     # Calculate their average
     total = 0
     for j in range(len(student_scores)):
-        total = total + student_scores[j]
+        total = total + class_scores[i][j]
     average = total / len(student_scores)
     
     print("Student", i + 1, "average:", average)
