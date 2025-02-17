@@ -6,6 +6,21 @@ def read_file(filename):
         ret = file.read()
     return ret.split('\n')
 
+def read_file_lines(filename):
+    cleaned = []
+    with open(filename) as file:
+            lines = file.readlines()
+    #Option 1 .... 
+    cleaned = [line.strip() for line in lines]
+
+    #Option 2
+    for line in lines:
+        clean = line.strip()
+        cleaned.append(clean)  
+
+    return cleaned
+    
+
 #add functions here
 
 
