@@ -2,12 +2,16 @@ from Student import Student
 
 student_1 = Student('Johnson', 'Matt')
 student_2 = Student('Flay', 'Bobby')
+student_3 = Student('Apple', 'Bertram')
 
-student_1.set_classes(['English', 'Math', 'Astronomy'])
-print(student_1)
+# print(student_3.first_name)
 
-print(student_2.id_num)
+# #student_3.add_class('CLCS')
 
-student_1.remove_class('Math')
-student_1.print_classes()
+# print(student_3.id_num)
 
+# student_3.set_classes(['Art', 'Spanish', 'Philosophy', 'Linear Algebra'])
+
+# print(student_3.classes)
+
+print(student_3)
