@@ -1,6 +1,8 @@
 # Without type hints - unclear what kind of numbers to use
 def add_bonus_points(score, bonus):
-    return score + bonus
+    total =  score + bonus
+    print(total)
+    return total
 
 # With type hints - now we know to use whole numbers
 def add_bonus_points_typed(score: int, bonus: int) -> int:
