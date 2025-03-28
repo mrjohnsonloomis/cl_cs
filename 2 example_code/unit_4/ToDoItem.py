@@ -35,11 +35,32 @@ class ToDoItem:
         self.snoozed_until = until_date
         return f"Task snoozed until {until_date}!"
 
+class ToDoList:
+    def __init__(self, name):
+        self.name = name
+        self.items = []
+
+    def add_item(self, item):
+        self.items.append(item)
+
+    def create_item(self):
+        task = input('What do you need to do?: ')
+        date = input('By when?: ')
+        to_add = ToDoItem(task, date)
+        self.add_item(to_add)
+
+    def __str__(self):
+        ret = ''
+        for item in self.items:
+            ret += f'{item.description} '
+        return ret
+    
+
 
 # Client code
 def main():
     # Create two tasks
-    homework = ToDoItem("Complete Python assignment", "2025-03-30", "High")
+    homework = ToDoItem("Complete Python assignment", "2025-03-30")
     shopping = ToDoItem("Go grocery shopping", "2025-03-28")
     
     # Test methods
@@ -55,5 +76,12 @@ def main():
     shopping.change_priority("Low")
     shopping.snooze("2025-04-01")
     print(shopping)
+
+    today = ToDoList('Todays tasks')
+    today.add_item(homework)
+    today.add_item(shopping)
+    today.create_item()
+
+    print(today)
 
 main()
