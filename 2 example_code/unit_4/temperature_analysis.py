@@ -9,9 +9,9 @@ def read_temperature_data(filename):
     with open('temperature_data.csv') as file:
         header = file.readline() # this gets rid of the header, proceed as normal after this
         
-    # TODO: Open the file and read its contents
-    # TODO: Convert each line to a list of values
-    # TODO: Return the 2D list of data
+        # TODO: Open the file and read its contents
+        # TODO: Convert each line to a list of values
+        # TODO: Return the 2D list of data
     
     return data
 
