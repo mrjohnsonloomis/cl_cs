@@ -6,7 +6,7 @@ def read_temperature_data(filename):
     The first row should be the header with city names.
     """
     data = []
-    with open('temperature_data.csv') as file:
+    with open(filename) as file:
         header = file.readline() # this gets rid of the header, proceed as normal after this
         
         # TODO: Open the file and read its contents
