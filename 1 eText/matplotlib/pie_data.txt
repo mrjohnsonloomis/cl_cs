@@ -1,0 +1,6 @@
+Category,Value
+Category A,35
+Category B,25
+Category C,20
+Category D,10
+Category E,10

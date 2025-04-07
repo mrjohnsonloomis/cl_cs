@@ -1,0 +1,7 @@
+Month,Temperature,Rainfall
+Jan,10,50
+Feb,12,40
+Mar,15,30
+Apr,20,20
+May,25,15
+Jun,28,10

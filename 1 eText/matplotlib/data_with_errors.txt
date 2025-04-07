@@ -1,0 +1,6 @@
+Category,Value,Error
+A,25,2
+B,32,3
+C,21,2
+D,35,4
+E,29,3

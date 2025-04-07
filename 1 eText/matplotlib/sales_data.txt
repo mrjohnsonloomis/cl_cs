@@ -1,0 +1,6 @@
+Category,Sales
+Electronics,12000
+Clothing,8000
+Home & Kitchen,9000
+Books,4000
+Sports & Outdoors,7000
