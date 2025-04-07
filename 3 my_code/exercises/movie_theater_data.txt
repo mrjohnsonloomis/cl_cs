@@ -1,0 +1,592 @@
+Date,Theater,Movie,Tickets_Sold,Avg_Ticket_Price,Concession_Sales,Showtime
+2023-06-01,Downtown,Cosmic Adventure,41,11.72,629.62,Matinee
+2023-06-01,Downtown,Cosmic Adventure,74,13.82,1009.68,Evening
+2023-06-01,Downtown,Cosmic Adventure,110,13.42,1749.81,Night
+2023-06-01,Mall Plaza,Cosmic Adventure,63,9.67,1147.36,Matinee
+2023-06-01,Mall Plaza,Cosmic Adventure,180,11.91,3615.03,Evening
+2023-06-01,Mall Plaza,Cosmic Adventure,91,11.15,1730.49,Night
+2023-06-01,Suburban,Cosmic Adventure,71,8.61,841.76,Matinee
+2023-06-01,Suburban,Cosmic Adventure,178,11.01,1986.20,Evening
+2023-06-01,Suburban,Cosmic Adventure,93,9.87,941.34,Night
+2023-06-02,Downtown,Cosmic Adventure,60,11.20,874.43,Matinee
+2023-06-02,Downtown,Cosmic Adventure,163,14.80,2293.98,Evening
+2023-06-02,Downtown,Cosmic Adventure,127,13.53,1851.44,Night
+2023-06-02,Mall Plaza,Cosmic Adventure,158,9.71,2771.94,Matinee
+2023-06-02,Mall Plaza,Cosmic Adventure,231,12.45,4526.61,Evening
+2023-06-02,Mall Plaza,Cosmic Adventure,176,11.12,3023.09,Night
+2023-06-02,Suburban,Cosmic Adventure,137,8.73,1486.10,Matinee
+2023-06-02,Suburban,Cosmic Adventure,252,10.61,2527.32,Evening
+2023-06-02,Suburban,Cosmic Adventure,161,9.68,1812.35,Night
+2023-06-03,Downtown,Cosmic Adventure,116,11.79,1591.32,Matinee
+2023-06-03,Downtown,Cosmic Adventure,72,14.13,1088.58,Evening
+2023-06-03,Downtown,Cosmic Adventure,111,12.93,1666.82,Night
+2023-06-03,Mall Plaza,Cosmic Adventure,52,10.06,921.79,Matinee
+2023-06-03,Mall Plaza,Cosmic Adventure,89,11.44,1538.81,Evening
+2023-06-03,Mall Plaza,Cosmic Adventure,174,10.39,3046.69,Night
+2023-06-03,Suburban,Cosmic Adventure,113,8.19,1360.35,Matinee
+2023-06-03,Suburban,Cosmic Adventure,181,10.57,2089.77,Evening
+2023-06-03,Suburban,Cosmic Adventure,215,9.70,2404.72,Night
+2023-06-04,Downtown,Cosmic Adventure,106,11.02,1529.74,Matinee
+2023-06-04,Downtown,Cosmic Adventure,63,14.28,909.24,Evening
+2023-06-04,Downtown,Cosmic Adventure,98,12.75,1404.28,Night
+2023-06-04,Mall Plaza,Cosmic Adventure,84,9.21,1518.51,Matinee
+2023-06-04,Mall Plaza,Cosmic Adventure,199,12.00,3767.39,Evening
+2023-06-04,Mall Plaza,Cosmic Adventure,92,10.89,1738.75,Night
+2023-06-04,Suburban,Cosmic Adventure,171,7.98,1864.95,Matinee
+2023-06-04,Suburban,Cosmic Adventure,106,10.97,1098.54,Evening
+2023-06-04,Suburban,Cosmic Adventure,130,9.73,1435.27,Night
+2023-06-05,Downtown,Love in Paris,48,11.40,699.13,Matinee
+2023-06-05,Downtown,Love in Paris,73,14.25,918.42,Evening
+2023-06-05,Downtown,Love in Paris,87,12.59,1235.80,Night
+2023-06-05,Downtown,Cosmic Adventure,76,11.47,1011.03,Matinee
+2023-06-05,Downtown,Cosmic Adventure,46,14.14,709.86,Evening
+2023-06-05,Downtown,Cosmic Adventure,60,12.97,811.86,Night
+2023-06-05,Mall Plaza,Cosmic Adventure,106,9.52,1784.79,Matinee
+2023-06-05,Mall Plaza,Cosmic Adventure,176,12.34,3244.10,Evening
+2023-06-05,Mall Plaza,Cosmic Adventure,130,10.37,2266.11,Night
+2023-06-05,Mall Plaza,Love in Paris,58,9.35,1010.75,Matinee
+2023-06-05,Mall Plaza,Love in Paris,92,12.43,1511.85,Evening
+2023-06-05,Mall Plaza,Love in Paris,108,10.44,1991.81,Night
+2023-06-05,Suburban,Cosmic Adventure,120,8.58,1279.10,Matinee
+2023-06-05,Suburban,Cosmic Adventure,73,10.42,838.59,Evening
+2023-06-05,Suburban,Cosmic Adventure,66,9.89,749.00,Night
+2023-06-05,Suburban,Love in Paris,48,8.36,480.76,Matinee
+2023-06-05,Suburban,Love in Paris,75,10.49,747.10,Evening
+2023-06-05,Suburban,Love in Paris,126,9.42,1233.36,Night
+2023-06-06,Downtown,Cosmic Adventure,75,11.83,1149.93,Matinee
+2023-06-06,Downtown,Cosmic Adventure,77,14.52,1144.37,Evening
+2023-06-06,Downtown,Cosmic Adventure,74,13.36,1130.70,Night
+2023-06-06,Downtown,Love in Paris,77,11.90,1056.07,Matinee
+2023-06-06,Downtown,Love in Paris,108,14.07,1367.09,Evening
+2023-06-06,Downtown,Love in Paris,50,13.50,697.40,Night
+2023-06-06,Mall Plaza,Cosmic Adventure,72,9.97,1237.69,Matinee
+2023-06-06,Mall Plaza,Cosmic Adventure,85,12.07,1496.92,Evening
+2023-06-06,Mall Plaza,Cosmic Adventure,43,10.72,750.08,Night
+2023-06-06,Mall Plaza,Love in Paris,93,9.24,1596.13,Matinee
+2023-06-06,Mall Plaza,Love in Paris,74,12.31,1297.05,Evening
+2023-06-06,Mall Plaza,Love in Paris,104,10.35,1743.09,Night
+2023-06-06,Suburban,Cosmic Adventure,52,8.08,603.34,Matinee
+2023-06-06,Suburban,Cosmic Adventure,145,10.83,1665.31,Evening
+2023-06-06,Suburban,Cosmic Adventure,127,9.84,1452.86,Night
+2023-06-06,Suburban,Love in Paris,58,7.99,619.50,Matinee
+2023-06-06,Suburban,Love in Paris,142,10.18,1549.80,Evening
+2023-06-06,Suburban,Love in Paris,106,9.44,1217.94,Night
+2023-06-07,Downtown,Love in Paris,38,11.15,507.88,Matinee
+2023-06-07,Downtown,Love in Paris,42,14.08,579.16,Evening
+2023-06-07,Downtown,Love in Paris,29,13.47,432.69,Night
+2023-06-07,Downtown,Cosmic Adventure,70,11.02,1000.09,Matinee
+2023-06-07,Downtown,Cosmic Adventure,98,14.45,1473.37,Evening
+2023-06-07,Downtown,Cosmic Adventure,51,12.82,811.39,Night
+2023-06-07,Mall Plaza,Love in Paris,80,9.40,1351.96,Matinee
+2023-06-07,Mall Plaza,Love in Paris,132,12.13,2471.53,Evening
+2023-06-07,Mall Plaza,Love in Paris,56,10.54,1013.06,Night
+2023-06-07,Mall Plaza,Cosmic Adventure,44,9.88,822.44,Matinee
+2023-06-07,Mall Plaza,Cosmic Adventure,145,11.59,2445.55,Evening
+2023-06-07,Mall Plaza,Cosmic Adventure,36,11.26,658.32,Night
+2023-06-07,Suburban,Love in Paris,36,8.63,342.40,Matinee
+2023-06-07,Suburban,Love in Paris,160,10.60,1784.67,Evening
+2023-06-07,Suburban,Love in Paris,41,9.34,445.39,Night
+2023-06-07,Suburban,Cosmic Adventure,44,8.11,454.49,Matinee
+2023-06-07,Suburban,Cosmic Adventure,111,10.59,1259.37,Evening
+2023-06-07,Suburban,Cosmic Adventure,44,9.80,480.36,Night
+2023-06-08,Downtown,Love in Paris,57,12.17,772.84,Matinee
+2023-06-08,Downtown,Love in Paris,71,15.14,958.92,Evening
+2023-06-08,Downtown,Love in Paris,27,13.05,349.50,Night
+2023-06-08,Downtown,Cosmic Adventure,26,11.62,398.31,Matinee
+2023-06-08,Downtown,Cosmic Adventure,119,14.74,1710.56,Evening
+2023-06-08,Downtown,Cosmic Adventure,66,13.22,914.17,Night
+2023-06-08,Mall Plaza,Love in Paris,43,9.64,721.85,Matinee
+2023-06-08,Mall Plaza,Love in Paris,103,11.64,1875.20,Evening
+2023-06-08,Mall Plaza,Love in Paris,64,11.29,1079.46,Night
+2023-06-08,Mall Plaza,Cosmic Adventure,48,9.19,899.80,Matinee
+2023-06-08,Mall Plaza,Cosmic Adventure,115,11.81,1918.33,Evening
+2023-06-08,Mall Plaza,Cosmic Adventure,103,10.71,1811.26,Night
+2023-06-08,Suburban,Cosmic Adventure,52,8.10,518.82,Matinee
+2023-06-08,Suburban,Cosmic Adventure,60,10.47,605.61,Evening
+2023-06-08,Suburban,Cosmic Adventure,54,9.12,534.73,Night
+2023-06-08,Suburban,Love in Paris,67,8.37,746.07,Matinee
+2023-06-08,Suburban,Love in Paris,99,10.79,1119.11,Evening
+2023-06-08,Suburban,Love in Paris,115,9.05,1181.54,Night
+2023-06-09,Downtown,Cosmic Adventure,94,11.83,1322.33,Matinee
+2023-06-09,Downtown,Cosmic Adventure,122,14.96,1689.18,Evening
+2023-06-09,Downtown,Cosmic Adventure,33,12.70,455.32,Night
+2023-06-09,Downtown,Love in Paris,55,11.20,766.63,Matinee
+2023-06-09,Downtown,Love in Paris,92,14.51,1320.91,Evening
+2023-06-09,Downtown,Love in Paris,95,13.60,1253.06,Night
+2023-06-09,Mall Plaza,Love in Paris,41,9.62,653.96,Matinee
+2023-06-09,Mall Plaza,Love in Paris,164,12.16,2958.77,Evening
+2023-06-09,Mall Plaza,Love in Paris,126,10.58,2390.74,Night
+2023-06-09,Mall Plaza,Cosmic Adventure,81,9.36,1359.00,Matinee
+2023-06-09,Mall Plaza,Cosmic Adventure,142,11.56,2513.69,Evening
+2023-06-09,Mall Plaza,Cosmic Adventure,94,10.69,1664.10,Night
+2023-06-09,Suburban,Cosmic Adventure,43,8.08,450.35,Matinee
+2023-06-09,Suburban,Cosmic Adventure,189,10.17,2180.52,Evening
+2023-06-09,Suburban,Cosmic Adventure,105,9.43,1206.98,Night
+2023-06-09,Suburban,Love in Paris,55,8.15,609.92,Matinee
+2023-06-09,Suburban,Love in Paris,226,10.06,2513.10,Evening
+2023-06-09,Suburban,Love in Paris,96,9.06,971.89,Night
+2023-06-10,Downtown,The Detective,118,11.79,1637.00,Matinee
+2023-06-10,Downtown,The Detective,64,13.95,1010.25,Evening
+2023-06-10,Downtown,The Detective,81,12.85,1127.65,Night
+2023-06-10,Downtown,Love in Paris,77,11.59,1113.15,Matinee
+2023-06-10,Downtown,Love in Paris,97,14.66,1356.62,Evening
+2023-06-10,Downtown,Love in Paris,77,13.68,1096.62,Night
+2023-06-10,Mall Plaza,Cosmic Adventure,74,9.86,1358.82,Matinee
+2023-06-10,Mall Plaza,Cosmic Adventure,75,12.32,1332.88,Evening
+2023-06-10,Mall Plaza,Cosmic Adventure,125,11.30,2066.57,Night
+2023-06-10,Mall Plaza,Love in Paris,95,9.78,1710.06,Matinee
+2023-06-10,Mall Plaza,Love in Paris,121,12.19,1932.27,Evening
+2023-06-10,Mall Plaza,Love in Paris,90,11.29,1566.00,Night
+2023-06-10,Suburban,The Detective,179,8.09,2046.24,Matinee
+2023-06-10,Suburban,The Detective,143,10.92,1746.83,Evening
+2023-06-10,Suburban,The Detective,109,9.92,1292.80,Night
+2023-06-10,Suburban,Cosmic Adventure,47,8.25,487.46,Matinee
+2023-06-10,Suburban,Cosmic Adventure,82,10.42,938.74,Evening
+2023-06-10,Suburban,Cosmic Adventure,82,8.99,866.04,Night
+2023-06-10,Suburban,Love in Paris,120,8.70,1208.89,Matinee
+2023-06-10,Suburban,Love in Paris,197,10.30,2049.14,Evening
+2023-06-10,Suburban,Love in Paris,115,9.74,1315.62,Night
+2023-06-11,Downtown,Cosmic Adventure,76,11.54,1159.63,Matinee
+2023-06-11,Downtown,Cosmic Adventure,52,14.67,803.05,Evening
+2023-06-11,Downtown,Cosmic Adventure,66,13.00,986.61,Night
+2023-06-11,Downtown,Love in Paris,80,11.47,1186.37,Matinee
+2023-06-11,Downtown,Love in Paris,114,13.93,1512.61,Evening
+2023-06-11,Downtown,Love in Paris,47,12.77,705.87,Night
+2023-06-11,Downtown,The Detective,45,11.94,624.61,Matinee
+2023-06-11,Downtown,The Detective,120,14.03,1690.84,Evening
+2023-06-11,Downtown,The Detective,53,13.07,874.89,Night
+2023-06-11,Mall Plaza,Love in Paris,72,9.86,1217.14,Matinee
+2023-06-11,Mall Plaza,Love in Paris,122,11.64,2168.91,Evening
+2023-06-11,Mall Plaza,Love in Paris,107,10.81,1757.76,Night
+2023-06-11,Mall Plaza,Cosmic Adventure,34,9.68,670.98,Matinee
+2023-06-11,Mall Plaza,Cosmic Adventure,165,12.34,3149.11,Evening
+2023-06-11,Mall Plaza,Cosmic Adventure,53,10.96,1065.69,Night
+2023-06-11,Suburban,The Detective,113,8.18,1210.99,Matinee
+2023-06-11,Suburban,The Detective,273,10.49,2966.35,Evening
+2023-06-11,Suburban,The Detective,71,9.90,845.46,Night
+2023-06-11,Suburban,Cosmic Adventure,89,8.49,992.61,Matinee
+2023-06-11,Suburban,Cosmic Adventure,87,10.99,927.06,Evening
+2023-06-11,Suburban,Cosmic Adventure,59,9.43,649.07,Night
+2023-06-12,Downtown,Love in Paris,21,11.56,285.45,Matinee
+2023-06-12,Downtown,Love in Paris,56,14.03,724.61,Evening
+2023-06-12,Downtown,Love in Paris,56,12.52,855.68,Night
+2023-06-12,Downtown,The Detective,78,11.93,1247.30,Matinee
+2023-06-12,Downtown,The Detective,103,14.91,1604.42,Evening
+2023-06-12,Downtown,The Detective,79,13.01,1284.19,Night
+2023-06-12,Mall Plaza,Love in Paris,48,9.55,866.21,Matinee
+2023-06-12,Mall Plaza,Love in Paris,102,12.10,1888.51,Evening
+2023-06-12,Mall Plaza,Love in Paris,54,10.37,958.95,Night
+2023-06-12,Mall Plaza,The Detective,66,9.47,1202.71,Matinee
+2023-06-12,Mall Plaza,The Detective,78,12.34,1440.10,Evening
+2023-06-12,Mall Plaza,The Detective,84,10.84,1466.61,Night
+2023-06-12,Mall Plaza,Cosmic Adventure,36,9.42,616.82,Matinee
+2023-06-12,Mall Plaza,Cosmic Adventure,50,12.17,932.71,Evening
+2023-06-12,Mall Plaza,Cosmic Adventure,75,10.36,1263.26,Night
+2023-06-12,Suburban,Cosmic Adventure,40,8.52,419.70,Matinee
+2023-06-12,Suburban,Cosmic Adventure,97,10.79,1092.56,Evening
+2023-06-12,Suburban,Cosmic Adventure,105,9.62,1084.29,Night
+2023-06-12,Suburban,Love in Paris,58,8.70,657.73,Matinee
+2023-06-12,Suburban,Love in Paris,122,10.32,1331.17,Evening
+2023-06-12,Suburban,Love in Paris,90,9.71,850.25,Night
+2023-06-12,Suburban,The Detective,73,8.28,853.42,Matinee
+2023-06-12,Suburban,The Detective,147,10.91,1586.27,Evening
+2023-06-12,Suburban,The Detective,104,9.52,1295.47,Night
+2023-06-13,Downtown,The Detective,29,11.67,467.14,Matinee
+2023-06-13,Downtown,The Detective,90,14.90,1267.60,Evening
+2023-06-13,Downtown,The Detective,89,13.09,1258.96,Night
+2023-06-13,Downtown,Love in Paris,45,11.22,629.32,Matinee
+2023-06-13,Downtown,Love in Paris,37,15.17,486.46,Evening
+2023-06-13,Downtown,Love in Paris,41,12.43,579.72,Night
+2023-06-13,Mall Plaza,Love in Paris,39,9.57,625.00,Matinee
+2023-06-13,Mall Plaza,Love in Paris,98,12.16,1875.00,Evening
+2023-06-13,Mall Plaza,Love in Paris,47,10.57,781.17,Night
+2023-06-13,Mall Plaza,The Detective,44,9.66,795.37,Matinee
+2023-06-13,Mall Plaza,The Detective,153,11.46,3060.19,Evening
+2023-06-13,Mall Plaza,The Detective,116,10.50,2354.66,Night
+2023-06-13,Suburban,The Detective,84,8.30,940.23,Matinee
+2023-06-13,Suburban,The Detective,64,10.34,664.06,Evening
+2023-06-13,Suburban,The Detective,54,9.51,680.26,Night
+2023-06-13,Suburban,Love in Paris,70,8.39,805.43,Matinee
+2023-06-13,Suburban,Love in Paris,122,10.90,1279.43,Evening
+2023-06-13,Suburban,Love in Paris,31,9.47,322.00,Night
+2023-06-13,Suburban,Cosmic Adventure,27,8.43,321.93,Matinee
+2023-06-13,Suburban,Cosmic Adventure,78,10.72,807.38,Evening
+2023-06-13,Suburban,Cosmic Adventure,92,9.78,1094.22,Night
+2023-06-14,Downtown,Love in Paris,31,11.86,449.12,Matinee
+2023-06-14,Downtown,Love in Paris,76,14.13,1025.98,Evening
+2023-06-14,Downtown,Love in Paris,39,13.40,597.54,Night
+2023-06-14,Downtown,The Detective,24,11.63,384.40,Matinee
+2023-06-14,Downtown,The Detective,114,13.79,1785.90,Evening
+2023-06-14,Downtown,The Detective,53,13.32,841.30,Night
+2023-06-14,Mall Plaza,Cosmic Adventure,41,9.37,775.21,Matinee
+2023-06-14,Mall Plaza,Cosmic Adventure,99,12.49,1774.35,Evening
+2023-06-14,Mall Plaza,Cosmic Adventure,53,10.66,996.50,Night
+2023-06-14,Mall Plaza,The Detective,42,9.79,862.81,Matinee
+2023-06-14,Mall Plaza,The Detective,162,11.54,3304.60,Evening
+2023-06-14,Mall Plaza,The Detective,97,11.27,1829.10,Night
+2023-06-14,Mall Plaza,Love in Paris,29,9.16,479.70,Matinee
+2023-06-14,Mall Plaza,Love in Paris,46,12.20,835.76,Evening
+2023-06-14,Mall Plaza,Love in Paris,56,10.28,1051.37,Night
+2023-06-14,Suburban,The Detective,52,8.30,636.06,Matinee
+2023-06-14,Suburban,The Detective,127,10.96,1434.45,Evening
+2023-06-14,Suburban,The Detective,67,9.33,830.14,Night
+2023-06-14,Suburban,Love in Paris,61,8.14,694.12,Matinee
+2023-06-14,Suburban,Love in Paris,93,10.08,967.08,Evening
+2023-06-14,Suburban,Love in Paris,92,9.65,891.11,Night
+2023-06-15,Downtown,Laugh Out Loud,107,11.09,1775.95,Matinee
+2023-06-15,Downtown,Laugh Out Loud,117,14.89,1889.02,Evening
+2023-06-15,Downtown,Laugh Out Loud,130,13.58,2095.57,Night
+2023-06-15,Downtown,The Detective,32,11.71,450.00,Matinee
+2023-06-15,Downtown,The Detective,95,13.78,1534.36,Evening
+2023-06-15,Downtown,The Detective,55,13.39,838.41,Night
+2023-06-15,Downtown,Cosmic Adventure,25,11.76,348.48,Matinee
+2023-06-15,Downtown,Cosmic Adventure,27,13.98,423.44,Evening
+2023-06-15,Downtown,Cosmic Adventure,32,12.74,439.06,Night
+2023-06-15,Mall Plaza,The Detective,64,9.50,1279.21,Matinee
+2023-06-15,Mall Plaza,The Detective,88,11.85,1723.08,Evening
+2023-06-15,Mall Plaza,The Detective,51,10.90,958.59,Night
+2023-06-15,Mall Plaza,Love in Paris,31,9.29,533.50,Matinee
+2023-06-15,Mall Plaza,Love in Paris,64,12.29,1186.19,Evening
+2023-06-15,Mall Plaza,Love in Paris,44,10.85,692.71,Night
+2023-06-15,Suburban,Laugh Out Loud,112,8.48,1471.61,Matinee
+2023-06-15,Suburban,Laugh Out Loud,226,10.80,2662.34,Evening
+2023-06-15,Suburban,Laugh Out Loud,116,9.67,1293.89,Night
+2023-06-15,Suburban,Love in Paris,51,8.05,543.69,Matinee
+2023-06-15,Suburban,Love in Paris,55,10.38,631.51,Evening
+2023-06-15,Suburban,Love in Paris,56,9.71,614.60,Night
+2023-06-15,Suburban,The Detective,75,8.66,900.38,Matinee
+2023-06-15,Suburban,The Detective,184,10.02,2135.32,Evening
+2023-06-15,Suburban,The Detective,55,9.73,621.38,Night
+2023-06-16,Downtown,Love in Paris,54,11.45,740.14,Matinee
+2023-06-16,Downtown,Love in Paris,84,13.95,1288.53,Evening
+2023-06-16,Downtown,Love in Paris,71,12.46,1017.08,Night
+2023-06-16,Downtown,Cosmic Adventure,62,12.08,939.51,Matinee
+2023-06-16,Downtown,Cosmic Adventure,65,15.02,1044.63,Evening
+2023-06-16,Downtown,Cosmic Adventure,57,13.53,866.93,Night
+2023-06-16,Mall Plaza,The Detective,116,9.99,2131.14,Matinee
+2023-06-16,Mall Plaza,The Detective,104,11.42,1841.94,Evening
+2023-06-16,Mall Plaza,The Detective,87,11.12,1722.48,Night
+2023-06-16,Mall Plaza,Laugh Out Loud,131,9.94,2837.30,Matinee
+2023-06-16,Mall Plaza,Laugh Out Loud,250,12.48,5361.13,Evening
+2023-06-16,Mall Plaza,Laugh Out Loud,217,10.52,3913.09,Night
+2023-06-16,Suburban,The Detective,73,8.06,832.50,Matinee
+2023-06-16,Suburban,The Detective,135,10.78,1457.94,Evening
+2023-06-16,Suburban,The Detective,135,9.77,1603.54,Night
+2023-06-16,Suburban,Cosmic Adventure,71,8.72,844.75,Matinee
+2023-06-16,Suburban,Cosmic Adventure,146,10.56,1665.64,Evening
+2023-06-16,Suburban,Cosmic Adventure,85,9.13,989.18,Night
+2023-06-17,Downtown,The Detective,59,12.10,848.92,Matinee
+2023-06-17,Downtown,The Detective,114,14.78,1902.56,Evening
+2023-06-17,Downtown,The Detective,38,12.99,636.28,Night
+2023-06-17,Downtown,Love in Paris,53,11.93,769.65,Matinee
+2023-06-17,Downtown,Love in Paris,56,13.80,757.77,Evening
+2023-06-17,Downtown,Love in Paris,52,12.80,756.24,Night
+2023-06-17,Downtown,Laugh Out Loud,86,11.98,1239.27,Matinee
+2023-06-17,Downtown,Laugh Out Loud,109,14.36,1892.20,Evening
+2023-06-17,Downtown,Laugh Out Loud,60,12.69,952.36,Night
+2023-06-17,Mall Plaza,Love in Paris,37,9.99,625.85,Matinee
+2023-06-17,Mall Plaza,Love in Paris,74,11.81,1266.90,Evening
+2023-06-17,Mall Plaza,Love in Paris,60,10.98,1024.40,Night
+2023-06-17,Mall Plaza,Laugh Out Loud,165,9.39,3247.94,Matinee
+2023-06-17,Mall Plaza,Laugh Out Loud,250,12.23,4514.95,Evening
+2023-06-17,Mall Plaza,Laugh Out Loud,197,10.51,3842.98,Night
+2023-06-17,Mall Plaza,The Detective,63,9.92,1319.36,Matinee
+2023-06-17,Mall Plaza,The Detective,90,12.47,1789.24,Evening
+2023-06-17,Mall Plaza,The Detective,128,11.04,2292.04,Night
+2023-06-17,Suburban,Laugh Out Loud,214,8.37,2773.71,Matinee
+2023-06-17,Suburban,Laugh Out Loud,130,10.26,1428.70,Evening
+2023-06-17,Suburban,Laugh Out Loud,117,9.09,1405.52,Night
+2023-06-17,Suburban,Love in Paris,43,8.62,437.02,Matinee
+2023-06-17,Suburban,Love in Paris,135,10.38,1396.46,Evening
+2023-06-17,Suburban,Love in Paris,58,9.86,665.30,Night
+2023-06-17,Suburban,The Detective,97,8.43,1070.55,Matinee
+2023-06-17,Suburban,The Detective,152,10.37,1623.92,Evening
+2023-06-17,Suburban,The Detective,127,9.69,1420.23,Night
+2023-06-18,Downtown,Love in Paris,19,11.50,255.67,Matinee
+2023-06-18,Downtown,Love in Paris,89,14.92,1152.36,Evening
+2023-06-18,Downtown,Love in Paris,43,13.52,624.19,Night
+2023-06-18,Downtown,The Detective,38,11.57,545.98,Matinee
+2023-06-18,Downtown,The Detective,100,14.50,1545.14,Evening
+2023-06-18,Downtown,The Detective,38,13.32,575.35,Night
+2023-06-18,Downtown,Cosmic Adventure,52,11.59,826.90,Matinee
+2023-06-18,Downtown,Cosmic Adventure,85,14.59,1245.80,Evening
+2023-06-18,Downtown,Cosmic Adventure,41,13.35,638.74,Night
+2023-06-18,Mall Plaza,Cosmic Adventure,78,9.58,1434.12,Matinee
+2023-06-18,Mall Plaza,Cosmic Adventure,121,12.38,2264.55,Evening
+2023-06-18,Mall Plaza,Cosmic Adventure,53,10.48,914.94,Night
+2023-06-18,Mall Plaza,Laugh Out Loud,110,10.04,1987.98,Matinee
+2023-06-18,Mall Plaza,Laugh Out Loud,213,12.12,4263.23,Evening
+2023-06-18,Mall Plaza,Laugh Out Loud,133,10.44,2654.77,Night
+2023-06-18,Mall Plaza,The Detective,50,9.88,990.80,Matinee
+2023-06-18,Mall Plaza,The Detective,110,12.37,2190.58,Evening
+2023-06-18,Mall Plaza,The Detective,123,11.24,2404.90,Night
+2023-06-18,Suburban,Laugh Out Loud,185,8.41,2259.26,Matinee
+2023-06-18,Suburban,Laugh Out Loud,235,10.52,2739.37,Evening
+2023-06-18,Suburban,Laugh Out Loud,215,9.62,2449.16,Night
+2023-06-18,Suburban,Love in Paris,69,7.99,736.29,Matinee
+2023-06-18,Suburban,Love in Paris,110,10.84,1255.99,Evening
+2023-06-18,Suburban,Love in Paris,81,9.23,925.29,Night
+2023-06-19,Downtown,Laugh Out Loud,56,11.24,881.43,Matinee
+2023-06-19,Downtown,Laugh Out Loud,75,14.06,1170.01,Evening
+2023-06-19,Downtown,Laugh Out Loud,99,13.57,1618.92,Night
+2023-06-19,Downtown,Cosmic Adventure,34,11.79,526.16,Matinee
+2023-06-19,Downtown,Cosmic Adventure,30,14.67,435.29,Evening
+2023-06-19,Downtown,Cosmic Adventure,22,12.66,343.65,Night
+2023-06-19,Mall Plaza,The Detective,69,9.38,1254.85,Matinee
+2023-06-19,Mall Plaza,The Detective,78,11.84,1395.34,Evening
+2023-06-19,Mall Plaza,The Detective,61,11.27,1232.85,Night
+2023-06-19,Mall Plaza,Laugh Out Loud,124,9.94,2463.71,Matinee
+2023-06-19,Mall Plaza,Laugh Out Loud,206,12.16,4100.35,Evening
+2023-06-19,Mall Plaza,Laugh Out Loud,107,10.97,2251.01,Night
+2023-06-19,Mall Plaza,Love in Paris,40,9.53,717.93,Matinee
+2023-06-19,Mall Plaza,Love in Paris,80,12.11,1263.59,Evening
+2023-06-19,Mall Plaza,Love in Paris,42,10.48,742.14,Night
+2023-06-19,Suburban,Laugh Out Loud,89,8.78,1022.55,Matinee
+2023-06-19,Suburban,Laugh Out Loud,102,10.53,1207.00,Evening
+2023-06-19,Suburban,Laugh Out Loud,77,9.58,908.15,Night
+2023-06-19,Suburban,Love in Paris,38,8.68,387.59,Matinee
+2023-06-19,Suburban,Love in Paris,72,10.97,681.22,Evening
+2023-06-19,Suburban,Love in Paris,66,9.03,685.46,Night
+2023-06-19,Suburban,Cosmic Adventure,56,8.51,577.15,Matinee
+2023-06-19,Suburban,Cosmic Adventure,52,10.13,626.92,Evening
+2023-06-19,Suburban,Cosmic Adventure,36,9.49,396.35,Night
+2023-06-20,Downtown,The Detective,41,11.61,683.54,Matinee
+2023-06-20,Downtown,The Detective,75,15.13,1051.91,Evening
+2023-06-20,Downtown,The Detective,42,12.78,624.63,Night
+2023-06-20,Downtown,Laugh Out Loud,86,11.70,1322.96,Matinee
+2023-06-20,Downtown,Laugh Out Loud,76,14.97,1109.60,Evening
+2023-06-20,Downtown,Laugh Out Loud,77,12.61,1328.11,Night
+2023-06-20,Mall Plaza,Laugh Out Loud,61,9.53,1279.86,Matinee
+2023-06-20,Mall Plaza,Laugh Out Loud,96,12.01,2036.22,Evening
+2023-06-20,Mall Plaza,Laugh Out Loud,113,10.95,2187.66,Night
+2023-06-20,Mall Plaza,Epic Quest,48,9.97,1024.76,Matinee
+2023-06-20,Mall Plaza,Epic Quest,202,11.56,4118.02,Evening
+2023-06-20,Mall Plaza,Epic Quest,54,10.53,1174.66,Night
+2023-06-20,Mall Plaza,Cosmic Adventure,35,10.03,580.09,Matinee
+2023-06-20,Mall Plaza,Cosmic Adventure,84,12.47,1563.89,Evening
+2023-06-20,Mall Plaza,Cosmic Adventure,67,10.52,1206.84,Night
+2023-06-20,Suburban,Cosmic Adventure,53,8.13,546.74,Matinee
+2023-06-20,Suburban,Cosmic Adventure,77,10.24,766.54,Evening
+2023-06-20,Suburban,Cosmic Adventure,53,9.03,580.95,Night
+2023-06-20,Suburban,Love in Paris,51,8.26,572.29,Matinee
+2023-06-20,Suburban,Love in Paris,83,10.87,841.78,Evening
+2023-06-20,Suburban,Love in Paris,60,9.66,634.39,Night
+2023-06-21,Downtown,Love in Paris,38,11.69,497.18,Matinee
+2023-06-21,Downtown,Love in Paris,40,13.90,545.97,Evening
+2023-06-21,Downtown,Love in Paris,24,12.95,366.79,Night
+2023-06-21,Downtown,Cosmic Adventure,21,11.52,314.25,Matinee
+2023-06-21,Downtown,Cosmic Adventure,58,14.24,815.44,Evening
+2023-06-21,Downtown,Cosmic Adventure,38,13.21,576.10,Night
+2023-06-21,Downtown,Laugh Out Loud,70,11.98,1090.37,Matinee
+2023-06-21,Downtown,Laugh Out Loud,64,14.01,950.78,Evening
+2023-06-21,Downtown,Laugh Out Loud,54,13.45,872.43,Night
+2023-06-21,Mall Plaza,The Detective,61,9.80,1215.60,Matinee
+2023-06-21,Mall Plaza,The Detective,43,12.48,757.38,Evening
+2023-06-21,Mall Plaza,The Detective,33,10.91,573.55,Night
+2023-06-21,Mall Plaza,Laugh Out Loud,71,9.24,1446.08,Matinee
+2023-06-21,Mall Plaza,Laugh Out Loud,96,11.42,1856.00,Evening
+2023-06-21,Mall Plaza,Laugh Out Loud,127,10.88,2624.89,Night
+2023-06-21,Mall Plaza,Love in Paris,49,10.08,880.31,Matinee
+2023-06-21,Mall Plaza,Love in Paris,36,12.11,670.72,Evening
+2023-06-21,Mall Plaza,Love in Paris,24,10.80,444.63,Night
+2023-06-21,Suburban,The Detective,38,8.24,440.93,Matinee
+2023-06-21,Suburban,The Detective,59,10.30,713.15,Evening
+2023-06-21,Suburban,The Detective,39,9.72,454.26,Night
+2023-06-21,Suburban,Laugh Out Loud,127,8.02,1387.17,Matinee
+2023-06-21,Suburban,Laugh Out Loud,169,11.01,2197.12,Evening
+2023-06-21,Suburban,Laugh Out Loud,155,9.12,1767.45,Night
+2023-06-22,Downtown,Laugh Out Loud,35,11.32,605.56,Matinee
+2023-06-22,Downtown,Laugh Out Loud,112,14.37,1943.24,Evening
+2023-06-22,Downtown,Laugh Out Loud,77,13.25,1265.64,Night
+2023-06-22,Downtown,Epic Quest,33,11.17,534.20,Matinee
+2023-06-22,Downtown,Epic Quest,155,14.09,2733.16,Evening
+2023-06-22,Downtown,Epic Quest,42,13.44,634.38,Night
+2023-06-22,Downtown,The Detective,21,11.06,302.48,Matinee
+2023-06-22,Downtown,The Detective,43,13.78,712.70,Evening
+2023-06-22,Downtown,The Detective,31,13.65,440.36,Night
+2023-06-22,Mall Plaza,The Detective,34,9.15,621.84,Matinee
+2023-06-22,Mall Plaza,The Detective,71,12.25,1429.33,Evening
+2023-06-22,Mall Plaza,The Detective,71,10.55,1234.04,Night
+2023-06-22,Mall Plaza,Epic Quest,50,9.25,926.25,Matinee
+2023-06-22,Mall Plaza,Epic Quest,174,12.53,3176.46,Evening
+2023-06-22,Mall Plaza,Epic Quest,47,10.80,890.03,Night
+2023-06-22,Mall Plaza,Love in Paris,41,10.02,754.75,Matinee
+2023-06-22,Mall Plaza,Love in Paris,80,11.70,1477.43,Evening
+2023-06-22,Mall Plaza,Love in Paris,53,11.11,913.61,Night
+2023-06-22,Suburban,Laugh Out Loud,116,8.52,1520.02,Matinee
+2023-06-22,Suburban,Laugh Out Loud,137,10.15,1772.55,Evening
+2023-06-22,Suburban,Laugh Out Loud,148,8.98,1649.07,Night
+2023-06-22,Suburban,Epic Quest,88,8.23,1010.86,Matinee
+2023-06-22,Suburban,Epic Quest,157,10.06,1869.56,Evening
+2023-06-22,Suburban,Epic Quest,74,9.30,876.94,Night
+2023-06-23,Downtown,Love in Paris,16,11.73,205.30,Matinee
+2023-06-23,Downtown,Love in Paris,72,14.03,936.35,Evening
+2023-06-23,Downtown,Love in Paris,23,13.00,292.97,Night
+2023-06-23,Downtown,The Detective,61,11.79,926.62,Matinee
+2023-06-23,Downtown,The Detective,53,13.92,779.76,Evening
+2023-06-23,Downtown,The Detective,24,12.78,376.67,Night
+2023-06-23,Mall Plaza,Epic Quest,90,9.91,1947.80,Matinee
+2023-06-23,Mall Plaza,Epic Quest,221,11.77,4912.11,Evening
+2023-06-23,Mall Plaza,Epic Quest,131,11.09,2408.92,Night
+2023-06-23,Mall Plaza,Laugh Out Loud,95,9.30,2050.71,Matinee
+2023-06-23,Mall Plaza,Laugh Out Loud,209,12.03,4528.79,Evening
+2023-06-23,Mall Plaza,Laugh Out Loud,55,10.55,1018.26,Night
+2023-06-23,Suburban,Epic Quest,96,7.99,1237.65,Matinee
+2023-06-23,Suburban,Epic Quest,136,10.11,1574.38,Evening
+2023-06-23,Suburban,Epic Quest,65,9.00,863.69,Night
+2023-06-23,Suburban,Laugh Out Loud,149,8.24,1737.28,Matinee
+2023-06-23,Suburban,Laugh Out Loud,218,10.47,2511.24,Evening
+2023-06-23,Suburban,Laugh Out Loud,69,9.76,873.67,Night
+2023-06-23,Suburban,Love in Paris,54,8.51,524.31,Matinee
+2023-06-23,Suburban,Love in Paris,97,10.42,1108.05,Evening
+2023-06-23,Suburban,Love in Paris,80,9.71,849.68,Night
+2023-06-24,Downtown,Love in Paris,46,11.43,603.86,Matinee
+2023-06-24,Downtown,Love in Paris,72,14.37,984.92,Evening
+2023-06-24,Downtown,Love in Paris,38,13.54,569.89,Night
+2023-06-24,Downtown,The Detective,21,11.29,313.29,Matinee
+2023-06-24,Downtown,The Detective,68,14.31,1080.07,Evening
+2023-06-24,Downtown,The Detective,66,12.61,917.32,Night
+2023-06-24,Mall Plaza,Love in Paris,28,9.39,520.73,Matinee
+2023-06-24,Mall Plaza,Love in Paris,84,12.46,1440.99,Evening
+2023-06-24,Mall Plaza,Love in Paris,76,10.89,1440.46,Night
+2023-06-24,Mall Plaza,The Detective,30,9.77,630.43,Matinee
+2023-06-24,Mall Plaza,The Detective,58,11.66,1096.53,Evening
+2023-06-24,Mall Plaza,The Detective,58,10.73,1024.00,Night
+2023-06-24,Suburban,Love in Paris,36,8.30,404.04,Matinee
+2023-06-24,Suburban,Love in Paris,133,11.01,1407.20,Evening
+2023-06-24,Suburban,Love in Paris,43,9.22,480.14,Night
+2023-06-24,Suburban,Laugh Out Loud,107,8.67,1265.62,Matinee
+2023-06-24,Suburban,Laugh Out Loud,211,10.10,2454.85,Evening
+2023-06-24,Suburban,Laugh Out Loud,52,9.25,632.77,Night
+2023-06-24,Suburban,Epic Quest,106,8.64,1215.19,Matinee
+2023-06-24,Suburban,Epic Quest,267,10.81,3468.15,Evening
+2023-06-24,Suburban,Epic Quest,77,9.79,850.34,Night
+2023-06-25,Downtown,Love in Paris,24,11.75,316.65,Matinee
+2023-06-25,Downtown,Love in Paris,53,14.68,779.82,Evening
+2023-06-25,Downtown,Love in Paris,47,13.57,599.67,Night
+2023-06-25,Downtown,Epic Quest,38,11.08,558.14,Matinee
+2023-06-25,Downtown,Epic Quest,120,13.91,1764.82,Evening
+2023-06-25,Downtown,Epic Quest,112,13.47,1902.84,Night
+2023-06-25,Mall Plaza,Laugh Out Loud,107,9.55,2053.23,Matinee
+2023-06-25,Mall Plaza,Laugh Out Loud,103,12.52,2044.22,Evening
+2023-06-25,Mall Plaza,Laugh Out Loud,133,11.20,2769.11,Night
+2023-06-25,Mall Plaza,The Detective,42,9.25,747.42,Matinee
+2023-06-25,Mall Plaza,The Detective,104,12.26,2159.47,Evening
+2023-06-25,Mall Plaza,The Detective,50,10.49,872.95,Night
+2023-06-25,Mall Plaza,Epic Quest,75,9.47,1405.68,Matinee
+2023-06-25,Mall Plaza,Epic Quest,91,12.15,1936.12,Evening
+2023-06-25,Mall Plaza,Epic Quest,153,11.00,3069.31,Night
+2023-06-25,Suburban,Laugh Out Loud,115,8.62,1316.10,Matinee
+2023-06-25,Suburban,Laugh Out Loud,187,10.12,2365.40,Evening
+2023-06-25,Suburban,Laugh Out Loud,130,9.85,1398.28,Night
+2023-06-25,Suburban,Love in Paris,59,8.79,622.10,Matinee
+2023-06-25,Suburban,Love in Paris,50,10.59,484.42,Evening
+2023-06-25,Suburban,Love in Paris,31,9.60,317.49,Night
+2023-06-26,Downtown,Laugh Out Loud,66,12.01,1092.61,Matinee
+2023-06-26,Downtown,Laugh Out Loud,78,13.95,1231.87,Evening
+2023-06-26,Downtown,Laugh Out Loud,35,12.58,593.16,Night
+2023-06-26,Downtown,The Detective,23,11.99,318.76,Matinee
+2023-06-26,Downtown,The Detective,44,14.61,622.55,Evening
+2023-06-26,Downtown,The Detective,16,12.78,256.94,Night
+2023-06-26,Downtown,Epic Quest,29,11.60,476.07,Matinee
+2023-06-26,Downtown,Epic Quest,86,13.78,1461.85,Evening
+2023-06-26,Downtown,Epic Quest,76,12.75,1185.44,Night
+2023-06-26,Mall Plaza,The Detective,34,9.57,671.73,Matinee
+2023-06-26,Mall Plaza,The Detective,56,12.58,1172.47,Evening
+2023-06-26,Mall Plaza,The Detective,43,11.34,745.03,Night
+2023-06-26,Mall Plaza,Laugh Out Loud,63,9.82,1238.35,Matinee
+2023-06-26,Mall Plaza,Laugh Out Loud,66,11.51,1295.81,Evening
+2023-06-26,Mall Plaza,Laugh Out Loud,71,11.13,1372.53,Night
+2023-06-26,Mall Plaza,Epic Quest,45,9.19,889.94,Matinee
+2023-06-26,Mall Plaza,Epic Quest,85,11.91,1559.81,Evening
+2023-06-26,Mall Plaza,Epic Quest,51,11.09,1120.89,Night
+2023-06-26,Suburban,Epic Quest,82,8.32,1004.11,Matinee
+2023-06-26,Suburban,Epic Quest,98,10.74,1165.89,Evening
+2023-06-26,Suburban,Epic Quest,98,9.36,1182.77,Night
+2023-06-26,Suburban,The Detective,31,8.44,382.81,Matinee
+2023-06-26,Suburban,The Detective,62,10.19,645.98,Evening
+2023-06-26,Suburban,The Detective,38,9.65,423.66,Night
+2023-06-27,Downtown,Epic Quest,29,12.12,434.24,Matinee
+2023-06-27,Downtown,Epic Quest,59,14.64,1029.26,Evening
+2023-06-27,Downtown,Epic Quest,27,13.06,476.69,Night
+2023-06-27,Downtown,Laugh Out Loud,36,11.19,617.63,Matinee
+2023-06-27,Downtown,Laugh Out Loud,61,14.04,981.83,Evening
+2023-06-27,Downtown,Laugh Out Loud,59,13.45,971.03,Night
+2023-06-27,Mall Plaza,The Detective,24,9.55,437.39,Matinee
+2023-06-27,Mall Plaza,The Detective,50,11.97,936.76,Evening
+2023-06-27,Mall Plaza,The Detective,59,10.40,1040.79,Night
+2023-06-27,Mall Plaza,Laugh Out Loud,48,9.38,1041.52,Matinee
+2023-06-27,Mall Plaza,Laugh Out Loud,43,11.50,825.45,Evening
+2023-06-27,Mall Plaza,Laugh Out Loud,71,10.34,1277.01,Night
+2023-06-27,Mall Plaza,Epic Quest,88,9.24,1873.91,Matinee
+2023-06-27,Mall Plaza,Epic Quest,104,12.46,2315.87,Evening
+2023-06-27,Mall Plaza,Epic Quest,98,11.04,1943.84,Night
+2023-06-27,Suburban,The Detective,45,8.77,464.82,Matinee
+2023-06-27,Suburban,The Detective,91,10.32,1086.67,Evening
+2023-06-27,Suburban,The Detective,77,9.19,934.26,Night
+2023-06-27,Suburban,Epic Quest,66,8.10,825.07,Matinee
+2023-06-27,Suburban,Epic Quest,145,10.85,1925.50,Evening
+2023-06-27,Suburban,Epic Quest,61,9.10,678.21,Night
+2023-06-27,Suburban,Laugh Out Loud,55,8.03,646.98,Matinee
+2023-06-27,Suburban,Laugh Out Loud,75,10.68,847.68,Evening
+2023-06-27,Suburban,Laugh Out Loud,60,9.80,712.10,Night
+2023-06-28,Downtown,Epic Quest,68,11.56,1063.52,Matinee
+2023-06-28,Downtown,Epic Quest,70,13.91,1189.76,Evening
+2023-06-28,Downtown,Epic Quest,27,12.83,463.97,Night
+2023-06-28,Downtown,Laugh Out Loud,20,11.88,306.07,Matinee
+2023-06-28,Downtown,Laugh Out Loud,45,14.17,686.36,Evening
+2023-06-28,Downtown,Laugh Out Loud,53,13.45,799.21,Night
+2023-06-28,Mall Plaza,The Detective,50,9.64,901.55,Matinee
+2023-06-28,Mall Plaza,The Detective,72,11.56,1361.85,Evening
+2023-06-28,Mall Plaza,The Detective,49,10.79,1007.13,Night
+2023-06-28,Mall Plaza,Laugh Out Loud,55,9.38,1115.14,Matinee
+2023-06-28,Mall Plaza,Laugh Out Loud,97,11.65,2035.02,Evening
+2023-06-28,Mall Plaza,Laugh Out Loud,45,10.42,924.49,Night
+2023-06-28,Suburban,Epic Quest,93,8.65,1097.57,Matinee
+2023-06-28,Suburban,Epic Quest,68,10.82,748.66,Evening
+2023-06-28,Suburban,Epic Quest,110,9.79,1284.49,Night
+2023-06-28,Suburban,Laugh Out Loud,60,8.24,669.72,Matinee
+2023-06-28,Suburban,Laugh Out Loud,110,10.51,1367.72,Evening
+2023-06-28,Suburban,Laugh Out Loud,47,9.01,575.62,Night
+2023-06-28,Suburban,The Detective,48,8.16,552.57,Matinee
+2023-06-28,Suburban,The Detective,86,10.97,1007.67,Evening
+2023-06-28,Suburban,The Detective,37,9.46,408.25,Night
+2023-06-29,Downtown,Epic Quest,32,11.29,532.09,Matinee
+2023-06-29,Downtown,Epic Quest,83,14.02,1314.26,Evening
+2023-06-29,Downtown,Epic Quest,23,13.32,348.90,Night
+2023-06-29,Downtown,The Detective,21,12.13,318.69,Matinee
+2023-06-29,Downtown,The Detective,49,15.13,738.04,Evening
+2023-06-29,Downtown,The Detective,29,12.82,479.68,Night
+2023-06-29,Mall Plaza,Laugh Out Loud,56,9.41,1011.62,Matinee
+2023-06-29,Mall Plaza,Laugh Out Loud,124,11.51,2408.53,Evening
+2023-06-29,Mall Plaza,Laugh Out Loud,28,11.16,508.50,Night
+2023-06-29,Mall Plaza,The Detective,30,9.40,611.58,Matinee
+2023-06-29,Mall Plaza,The Detective,97,11.86,1976.18,Evening
+2023-06-29,Mall Plaza,The Detective,42,10.70,725.52,Night
+2023-06-29,Suburban,The Detective,48,8.40,501.82,Matinee
+2023-06-29,Suburban,The Detective,90,10.28,1105.17,Evening
+2023-06-29,Suburban,The Detective,29,9.18,348.45,Night
+2023-06-29,Suburban,Epic Quest,62,8.52,754.69,Matinee
+2023-06-29,Suburban,Epic Quest,148,10.49,1883.86,Evening
+2023-06-29,Suburban,Epic Quest,64,9.92,834.07,Night
+2023-06-30,Downtown,Epic Quest,71,12.03,1163.69,Matinee
+2023-06-30,Downtown,Epic Quest,94,15.18,1440.96,Evening
+2023-06-30,Downtown,Epic Quest,90,12.77,1455.31,Night
+2023-06-30,Downtown,Laugh Out Loud,50,11.18,761.27,Matinee
+2023-06-30,Downtown,Laugh Out Loud,67,14.94,1044.98,Evening
+2023-06-30,Downtown,Laugh Out Loud,72,13.28,1158.74,Night
+2023-06-30,Downtown,The Detective,39,11.08,560.75,Matinee
+2023-06-30,Downtown,The Detective,85,14.55,1272.51,Evening
+2023-06-30,Downtown,The Detective,38,12.68,611.50,Night
+2023-06-30,Mall Plaza,Epic Quest,52,9.24,988.44,Matinee
+2023-06-30,Mall Plaza,Epic Quest,99,11.48,2199.57,Evening
+2023-06-30,Mall Plaza,Epic Quest,57,10.94,1190.73,Night
+2023-06-30,Mall Plaza,Laugh Out Loud,55,9.28,991.94,Matinee
+2023-06-30,Mall Plaza,Laugh Out Loud,116,11.90,2219.75,Evening
+2023-06-30,Mall Plaza,Laugh Out Loud,111,10.59,2281.57,Night
+2023-06-30,Suburban,The Detective,78,8.60,887.77,Matinee
+2023-06-30,Suburban,The Detective,135,10.37,1415.93,Evening
+2023-06-30,Suburban,The Detective,50,9.18,620.00,Night
+2023-06-30,Suburban,Laugh Out Loud,61,8.53,792.70,Matinee
+2023-06-30,Suburban,Laugh Out Loud,155,10.52,1806.69,Evening
+2023-06-30,Suburban,Laugh Out Loud,134,9.82,1525.71,Night
