@@ -14,3 +14,18 @@ for hour in hours:
     random_noise = random.uniform(-1, 1)  # Random variation between -1 and 1
     temperature = base_temp + daily_variation + random_noise
     temperatures.append(temperature)
+
+plt.figure(figsize=(10, 6))
+
+plt.plot(hours, temperatures, color='red', linestyle='dashdot', marker='*', markersize=10, markerfacecolor='green', markeredgecolor='blue', label='Temperature')
+
+
+plt.xlabel('Hour of Day', fontsize=15)
+plt.ylabel('Temperature in °C', fontsize=15)
+plt.title('Temp Over Time')
+
+plt.xlim(-0.5, 23.5)
+plt.xticks(range(0,24,3))
+plt.grid(True, linestyle='--')
+plt.legend()
+plt.show()
