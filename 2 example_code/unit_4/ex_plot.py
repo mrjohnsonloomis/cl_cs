@@ -19,24 +19,24 @@ temperatures_2 = [x + random.randint(-1, 1) for x in temperatures]
 
 fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(15, 6))
 
+#first graph
 ax1.plot(hours, temperatures, color='red', linestyle='dashdot', marker='*', markersize=10, markerfacecolor='green', markeredgecolor='blue', label='Temperature')
 ax1.set_xlabel('Hour of Day', fontsize=15)
 ax1.set_ylabel('Temperature in °C', fontsize=15)
-ax1.set_title('Temp Over Time')
+ax1.set_title('Temp Over Time Day 1')
 ax1.set_xlim(-0.5, 23.5)
 ax1.set_xticks(range(0,24,3))
 ax1.grid(True, linestyle='--')
 ax1.legend()
 
-ax2.plot(hours, temperatures_2)
-plt.xlabel('Hour of Day', fontsize=15)
-plt.ylabel('Temperature in °C', fontsize=15)
-plt.title('Temp Over Time')
-
-
-plt.xlim(-0.5, 23.5)
-plt.xticks(range(0,24,3))
-plt.grid(True, linestyle='--')
-plt.legend()
+#second graph
+ax2.plot(hours, temperatures_2,  color='green', linestyle='dashdot', marker='o', markersize=10, markerfacecolor='green', markeredgecolor='blue', label='Temperature')
+ax2.set_xlabel('Hour of Day', fontsize=15)
+ax2.set_ylabel('Temperature in °C', fontsize=15)
+ax2.set_title('Temp Over Time Day 2')
+ax2.set_xlim(-0.5, 23.5)
+ax2.set_xticks(range(0,24,3))
+ax2.grid(True, linestyle='--')
+ax2.legend()
 
 plt.show()
