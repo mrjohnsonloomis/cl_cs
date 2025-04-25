@@ -11,8 +11,8 @@ class Player(pygame.sprite.Sprite):
         super().__init__() # Important: Initialize the parent Sprite class
 
         # Appearance
-        self.image = pygame.Surface([size, size]) # Create a square surface
-        self.image.fill(color) # Fill it with the chosen color
+        self.image = pygame.image.load('assets/coin.png')
+        #self.image.fill(color) # Fill it with the chosen color
 
         # Position and Movement
         self.rect = self.image.get_rect(center = initial_pos) # Get the rectangle hitbox, positioned at initial_pos
@@ -44,6 +44,7 @@ class Player(pygame.sprite.Sprite):
         if self.rect.bottom >= screen_height:
             self.rect.bottom = screen_height # Prevent getting stuck
             self.speed_y *= -1
+            self.image = pygame.image.load('assets/book_green.png')
 
 '''---------------------------------SETUP-------------------------------'''
 # General setup
