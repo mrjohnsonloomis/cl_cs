@@ -234,13 +234,14 @@ while running:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False # Exit the loop
+      
         # Add other event handling here if needed (e.g., specific key presses for actions)
-        # if event.type == pygame.KEYDOWN:
-        #     if event.key == pygame.K_SPACE:
-        #         # Do something on spacebar press
-        #         pass
+        if event.type == pygame.KEYDOWN:
+             if event.key == pygame.K_SPACE:
+                 # Do something on spacebar press
+                 print('skibidi toilet')
 
-    # --- Game Logic Updates ---
+    # --- Game Logic Updates --- 
     # Call the update() method on ALL sprites in the 'all_sprites' group.
     # This moves the player based on keys and moves/bounces the obstacles.
     all_sprites.update()
