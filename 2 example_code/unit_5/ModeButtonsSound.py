@@ -30,6 +30,9 @@ class StarFish(pygame.sprite.Sprite): #button-ish
 
         if StarFish.click_sound == 0:
             StarFish.click_sound = pygame.mixer.Sound('assets/smb_powerup.wav')
+        if StarFish.click_sound == 1:
+            StarFish.click_sound = pygame.mixer.Sound('assets/hit.mp3')
+
 
 
     def clicked(self, mouse):
@@ -63,7 +66,7 @@ def main():
 
     #Music
     pygame.mixer.music.load('assets/Super Mario Bros.mp3')
-    pygame.mixer.music.play(2) #number: play that many times, 0/1/empty: play once, -1: inf loop 
+    pygame.mixer.music.play(-1) #number: play that many times, 0/1/empty: play once, -1: inf loop 
     
     '''----------------------------------LOOP-------------------------------'''
     while True:
@@ -91,6 +94,7 @@ def main():
         bg_group.draw(screen)
         if mode == 1:
             star_group.draw(screen)
+            
 
         # Updating the window
         pygame.display.flip()
