@@ -162,7 +162,7 @@ def main():
         # Check for button press events (when button is first pressed down)
             if controller_event['type'] == 'button_down':
                 # Check if it's the B button (index 1)
-                if controller_event['button'] == 1:  # B button
+                if controller_event['button'] == 1:  # B button (look in controller_support.py for full map)
                     rock_group.add(mink.shoot())
       
         #Collisions
