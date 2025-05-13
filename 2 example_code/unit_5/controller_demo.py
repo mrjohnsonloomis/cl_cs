@@ -1,4 +1,4 @@
-import pygame, sys, random
+import pygame, sys, random, controller_support
 
 #global variables
 screen_width = 1000
@@ -14,23 +14,43 @@ class Minkie(pygame.sprite.Sprite):
         self.speed = 5
         self.y_velocity = 0  
         self.on_ground = True
-
-    # Added this so that our guy can move
+        
+        # Initialize controller
+        self.controller = controller_support.Controller()  # Get first available controller
+    
     def update(self):
-        """Called once per frame. Handles player movement based on key presses."""
+        """Called once per frame. Handles player movement based on key presses and controller input."""
         # Get a dictionary of all currently pressed keys
         keys = pygame.key.get_pressed()
         
-        # Move left/right
+        # Move left/right with keyboard
         if keys[pygame.K_LEFT] or keys[pygame.K_a]:
             self.rect.x -= self.speed
         if keys[pygame.K_RIGHT] or keys[pygame.K_d]:
             self.rect.x += self.speed
         
-        # Handle jumping
+        # Handle jumping with keyboard
         if (keys[pygame.K_SPACE] or keys[pygame.K_UP] or keys[pygame.K_w]) and self.on_ground:
             self.y_velocity = -15  # Negative velocity means upward movement
             self.on_ground = False
+        
+        # Controller input for movement (only if connected)
+        if self.controller.is_connected():
+            # Move left/right with controller
+            if self.controller.is_left_pressed():
+                self.rect.x -= self.speed
+            if self.controller.is_right_pressed():
+                self.rect.x += self.speed
+            
+            # Handle jumping with controller
+            if (self.controller.is_jump_pressed() or self.controller.is_button_pressed(self.controller.A)) and self.on_ground:
+                self.y_velocity = -15
+                self.on_ground = False
+            
+            # Alternative: use analog stick for smoother movement
+            left_stick = self.controller.get_left_stick()
+            if abs(left_stick[0]) > 0:  # If there's significant horizontal movement
+                self.rect.x += int(left_stick[0] * self.speed)
         
         # Apply gravity
         self.y_velocity += 0.8  # Gravity constant
@@ -48,11 +68,15 @@ class Minkie(pygame.sprite.Sprite):
             self.y_velocity = 0
             self.on_ground = True
     
-    #create and return a rock
     def shoot(self):
-        #print('pew')
-        #return Rock(self.rect.centerx, self.rect.centery)
-        return Rock(20,20)
+        # Now can be triggered by keyboard or controller button
+        # Check for controller button press (if connected)
+        # Using B button (index 1) for shooting
+        if self.controller.is_connected() and self.controller.is_button_pressed(self.controller.B):
+            return Rock(20, 20)
+        
+        # Original implementation
+        return Rock(20, 20)
 
 class Rock(pygame.sprite.Sprite):
     def __init__(self, x, y):
@@ -88,6 +112,7 @@ def main():
     # General setup
     pygame.init()
     clock = pygame.time.Clock()
+    controller_support.init()
 
     # Setting up the main window
     screen = pygame.display.set_mode((screen_width,screen_height))
@@ -111,7 +136,8 @@ def main():
     '''----------------------------------LOOP-------------------------------'''
     while True:
         #Handling input (EVENTS)
-        for event in pygame.event.get():
+        events = pygame.event.get()
+        for event in events:
             if event.type == pygame.QUIT:
                 quit()
                 sys.exit()
@@ -129,10 +155,16 @@ def main():
                     collision_method = 3
                     print("Switched to collision method 3: group vs group collision")
 
-        # Updating Sprites
-        rock_group.update()
-        minkie_group.update()
-
+        #controller events
+        controller_events = controller_support.process_events(events)
+        # Handle controller events in an event-driven way
+        for controller_event in controller_events:
+        # Check for button press events (when button is first pressed down)
+            if controller_event['type'] == 'button_down':
+                # Check if it's the B button (index 1)
+                if controller_event['button'] == 1:  # B button
+                    rock_group.add(mink.shoot())
+      
         #Collisions
         if collision_method == 1:
             #Option 1: Individual sprite collision with collide_rect
@@ -152,6 +184,7 @@ def main():
                 rocks_hit = collisions.get(mink, [])
                 if rocks_hit:
                     print(f'ouch - method 3 (hit {len(rocks_hit)} rocks)')
+
 
         # Drawing
         screen.fill('black') #replace with image or whatever you use up top
